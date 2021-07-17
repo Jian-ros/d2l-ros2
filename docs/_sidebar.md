@@ -1,8 +1,9 @@
-* [动手学ROS2教程]()
-* [开始之前](prepare/开始之前.md)
+* [动手学ROS2教程](prepare/开始之前.md)
 * [第 1 章 ROS2介绍](chart1/章节介绍.md)
-  *  [1.1 ROS的前世今生](chart1\1.1ROS的前世今生.md) 
-* 第 2 章 准备环境与安装ROS2
+  *  [1.1 ROS2的前世今生](chart1/1.1ROS2的前世今生.md) 
+  *   [1.2 ROS与ROS2对比](chart1/1.2ROS与ROS2对比.md) 
+  *  [1.3课外阅读:ROS镇长与艳娘传奇](chart1/1.3课外阅读_ROS镇长与艳娘传奇.md) 
+* [第 2 章 准备环境与安装ROS2 ](chart2/章节介绍.md) 
 * 第 3 章 动手体验ROS2
 * 第 4 章 ROS2工具介绍
 * 第 5 章 ROS2通信机制
