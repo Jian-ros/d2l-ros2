@@ -21,9 +21,9 @@
 - 第 3 章 动手体验ROS2
   - [第3章 章节介绍](chart3/章节介绍.md) 
   - [3.1 ROS2节点介绍](chart3/3.1ROS2节点介绍.md)
-  - [3.2 ROS2的编译器Colcon](chart3/3.2ROS2的编译器Colcon.md)
-  - [3.3ROS2工作空间介绍](chart3/3.3ROS2工作空间介绍.md)
-  - [3.4 小游戏:消失的龟龟](chart3/3.4小游戏_消失的龟龟.md) 
+  - [3.2ROS2工作空间介绍](chart3/3.2ROS2工作空间介绍.md)
+  - [3.3 ROS2的编译器Colcon](chart3/3.3ROS2的编译器Colcon.md)
+  -  [3.4小游戏_小乌龟求偶大作战](chart3/3.4小游戏_小乌龟求偶大作战.md) 
   - [3.5 扩展阅读](chart3/3.5扩展阅读.md) 
 
 - 第 4 章 ROS2工具介绍
