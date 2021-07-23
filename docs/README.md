@@ -23,7 +23,7 @@ ROS2作为ROS的下一个版本，修复了ROS中存在的很多问题，比ROS�
 
 - 机器人相关专业的准大学生们
 
-- 想要转行从事机器人的在智工程师们
+- 想要转行从事机器人的在职工程师们
 
 - 其他想要学习了解机器人技术的同学们
 
@@ -76,7 +76,7 @@ ROS2作为ROS的下一个版本，修复了ROS中存在的很多问题，比ROS�
 
 参考资料：
 
-- `ros2_for_beginners_ros_foxy`
+- ros2_for_beginners_ros_foxy
 - https://www.dbbqb.com/
 
 
