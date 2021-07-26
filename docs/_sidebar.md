@@ -1,6 +1,5 @@
-动手学ROS2
+- [动手学ROS2](README.md)
 
-- [开始之前](prepare/开始之前.md)
 
 - 第 1 章 ROS2介绍
   - [第1章 章节介绍](chart1/章节介绍.md)
