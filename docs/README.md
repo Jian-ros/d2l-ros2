@@ -68,9 +68,10 @@ ROS2作为ROS的下一个版本，修复了ROS中存在的很多问题，比ROS�
 
 最后欢迎关注小鱼的微信公众号《鱼香ROS》，和小鱼一起学习ROS2。公众号下方有小鱼的个人微信和机器人技术交流群，有问题可以联系。
 
-<img src="README/imgs/image-20210726192026520.png" alt="image-20210726192026520" style="zoom:50%;" />
+<!-- <img src="README/imgs/image-20210726192026520.png" alt="image-20210726192026520" style="zoom:50%;" /> -->
+<!-- <img src="README/imgs/image-20210726192026520.png" alt="image-20210726192026520" style="zoom:50%;" /> -->
 
-
+![](README/imgs/image-20210726192026520.png)
 
 
 #### 参考资料
