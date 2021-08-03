@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>公众号鱼香ROS-动手学ROS2</title>
   <!-- no chche setting -->
   <meta   http-equiv= "Expires "   CONTENT= "0 ">                 
   <meta   http-equiv= "Cache-Control "   CONTENT= "no-cache ">                 
@@ -15,6 +15,8 @@
 <body>
   <div id="app"></div>
   <script>
+    var num = 0;
+    // mermaid.initialize({ startOnLoad: false });
     window.$docsify = {
       // name: '',
       // repo: '',
@@ -31,7 +33,19 @@
       	noData: 'No Results!',
         paths: 'auto',
         depth: 6
-      }
+      },
+      markdown: {
+        renderer: {
+          code: function(code, lang) {
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+              );
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+    }
     }
   </script>
   <!-- Docsify v4 -->
@@ -65,5 +79,7 @@
   <!-- 代码高亮 -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 </body>
 </html>
