@@ -23,8 +23,8 @@
   - [3.2ROS2工作空间介绍](chapt3/3.2ROS2工作空间介绍.md)
   - [3.3 ROS2的编译器Colcon](chapt3/3.3ROS2的编译器Colcon.md)
   - [3.4小游戏_小乌龟求偶大作战](chapt3/3.4小游戏_小乌龟求偶大作战.md) 
-  - [3.5手撸一个节点Python版本.md](chapt3/3.5手撸一个节点Python版本.md) 
-  - [3.6手撸一个节点C++版.md](chapt3/3.6手撸一个节点C++版.md) 
+  - [3.5手撸一个节点Python版本](chapt3/3.5手撸一个节点Python版本.md) 
+  - [3.6手撸一个节点C++版](chapt3/3.6手撸一个节点C++版.md) 
   - [3.7 扩展阅读](chapt3/3.7扩展阅读.md) 
   
 - 第 4 章 通信机制上(话题与服务)
@@ -33,20 +33,16 @@
   - [4.2话题通信实现(Python)](chapt4/4.2话题通信实现(Python).md) 
   - [4.3ROS2话题通信(C++)](chapt4/4.3ROS2话题通信(C++).md) 
   - [4.4话题小练习之李三白嫖](chapt4/4.4话题小练习-李三白嫖.md) 
-  - [4.5ROS2服务介绍](chapt4/4.5ROS2服务介绍.md) 
-  - [4.6服务实现(Python)](chapt4/4.5服务实现(Python).md) 
-  - [4.7服务实现(C++)](chapt4/4.6服务实现(C++).md) 
-  - [4.8章节总结](chapt4/4.7总结.md) 
+  - [4.5ROS2通信接口介绍](chapt4/4.5ROS2通信接口介绍.md) 
+  - [4.6ROS2自定义话题类型](chapt4/4.6ROS2自定义话题类型.md) 
+  - [4.7ROS2服务介绍](chapt4/4.7ROS2服务介绍.md) 
+  - [4.8自定义服务接口](chapt4/4.8自定义服务接口.md) 
+  - [4.9服务实现(Python)](chapt4/4.9服务实现(Python).md) 
+  - [4.10服务实现(C++)](chapt4/4.10服务实现(C++).md) 
+  - [4.11自定义话题通信(python)](chapt4/4.11自定义话题通信(python).md) 
   
 - 第 5 章 通信机制下(参数与Action)
-  - [4.7ROS2参数服务](chapt4/4.7ROS2参数服务.md) 
-  - [4.8参数代码实现(Python、C++)](chapt4\4.8参数代码实现(Python、C++).md) 
-  - [4.9ROS2_Action介绍](chapt4\4.9ROS2_Action介绍.md) 
-  - [4.10使用Python实现Action](chapt4\4.10使用Python实现Action.md) 
-  - [4.11使用C++实现Action](chapt4\4.11使用C++实现Action.md) 
-  - [4.12ROS2通信总结](chapt4\4.12ROS2通信总结.md) 
-  - [4.13扩展资料](chapt4\4.13扩展资料.md) 
-  
+
 - 第 6 章 动手学ROS2常用工具
 
 - 第 7 章 机器人基础
